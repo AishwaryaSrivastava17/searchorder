@@ -1,9 +1,7 @@
 package com.ibm.searchorder;
 
-
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
-
 import org.springframework.data.annotation.Id;
 
 public class Order {
